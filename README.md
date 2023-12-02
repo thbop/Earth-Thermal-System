@@ -2,6 +2,7 @@
  A simple simulation exporing angle and intensity
 
 ![Diagram](sketch.png)
+![Demonstration](demonstration.gif)
 
 From the earth's perspective, the sun revolves around the earth. Simulating its intensity at a single point and assuming the atomosphere decreases the intensity, we can assume that the angle or direction of the sun relative to the point affects the intensity value at that point.
 
